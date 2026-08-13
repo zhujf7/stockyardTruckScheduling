@@ -1,0 +1,3252 @@
+{
+    "vehicle_1": {
+        "vehicle_id": "V001",
+        "release_time": 9,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4954,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_2": {
+        "vehicle_id": "V002",
+        "release_time": 53,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4958,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_3": {
+        "vehicle_id": "V003",
+        "release_time": 106,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4962,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_4": {
+        "vehicle_id": "V004",
+        "release_time": 188,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4966,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_5": {
+        "vehicle_id": "V005",
+        "release_time": 319,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4982,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_6": {
+        "vehicle_id": "V006",
+        "release_time": 409,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4983,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_7": {
+        "vehicle_id": "V007",
+        "release_time": 434,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4984,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_8": {
+        "vehicle_id": "V008",
+        "release_time": 488,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5160,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_9": {
+        "vehicle_id": "V009",
+        "release_time": 520,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5164,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_10": {
+        "vehicle_id": "V010",
+        "release_time": 525,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5171,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_11": {
+        "vehicle_id": "V011",
+        "release_time": 711,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5172,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_12": {
+        "vehicle_id": "V012",
+        "release_time": 750,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5173,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_13": {
+        "vehicle_id": "V013",
+        "release_time": 771,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5174,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_14": {
+        "vehicle_id": "V014",
+        "release_time": 916,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5196,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_15": {
+        "vehicle_id": "V015",
+        "release_time": 949,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5195,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_16": {
+        "vehicle_id": "V016",
+        "release_time": 1040,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5194,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_17": {
+        "vehicle_id": "V017",
+        "release_time": 1084,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5193,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_18": {
+        "vehicle_id": "V018",
+        "release_time": 1133,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4994,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_19": {
+        "vehicle_id": "V019",
+        "release_time": 1139,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4998,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_20": {
+        "vehicle_id": "V020",
+        "release_time": 1169,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5002,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_21": {
+        "vehicle_id": "V021",
+        "release_time": 1290,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5003,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_22": {
+        "vehicle_id": "V022",
+        "release_time": 1291,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5004,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_23": {
+        "vehicle_id": "V023",
+        "release_time": 1307,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5005,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_24": {
+        "vehicle_id": "V024",
+        "release_time": 1403,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5018,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_25": {
+        "vehicle_id": "V025",
+        "release_time": 1424,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5225,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_26": {
+        "vehicle_id": "V026",
+        "release_time": 1489,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5226,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_27": {
+        "vehicle_id": "V027",
+        "release_time": 1519,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5227,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_28": {
+        "vehicle_id": "V028",
+        "release_time": 1535,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5228,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_29": {
+        "vehicle_id": "V029",
+        "release_time": 1584,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5229,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_30": {
+        "vehicle_id": "V030",
+        "release_time": 1654,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5019,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_31": {
+        "vehicle_id": "V031",
+        "release_time": 1674,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5020,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_32": {
+        "vehicle_id": "V032",
+        "release_time": 1679,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5022,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_33": {
+        "vehicle_id": "V033",
+        "release_time": 1743,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5026,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_34": {
+        "vehicle_id": "V034",
+        "release_time": 1796,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5038,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_35": {
+        "vehicle_id": "V035",
+        "release_time": 1824,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5230,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_36": {
+        "vehicle_id": "V036",
+        "release_time": 1827,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5242,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_37": {
+        "vehicle_id": "V037",
+        "release_time": 1832,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5251,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_38": {
+        "vehicle_id": "V038",
+        "release_time": 1876,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5252,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_39": {
+        "vehicle_id": "V039",
+        "release_time": 2045,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5253,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_40": {
+        "vehicle_id": "V040",
+        "release_time": 2060,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5039,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_41": {
+        "vehicle_id": "V041",
+        "release_time": 2103,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5046,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_42": {
+        "vehicle_id": "V042",
+        "release_time": 2266,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5047,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_43": {
+        "vehicle_id": "V043",
+        "release_time": 2286,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5048,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_44": {
+        "vehicle_id": "V044",
+        "release_time": 2287,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5058,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_45": {
+        "vehicle_id": "V045",
+        "release_time": 2340,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5059,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_46": {
+        "vehicle_id": "V046",
+        "release_time": 2504,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5254,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_47": {
+        "vehicle_id": "V047",
+        "release_time": 2504,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5250,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_48": {
+        "vehicle_id": "V048",
+        "release_time": 2547,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5255,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_49": {
+        "vehicle_id": "V049",
+        "release_time": 2591,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5261,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_50": {
+        "vehicle_id": "V050",
+        "release_time": 2615,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5262,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_51": {
+        "vehicle_id": "V051",
+        "release_time": 2621,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5263,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_52": {
+        "vehicle_id": "V052",
+        "release_time": 2646,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5060,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_53": {
+        "vehicle_id": "V053",
+        "release_time": 2664,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5062,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_54": {
+        "vehicle_id": "V054",
+        "release_time": 2677,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5264,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_55": {
+        "vehicle_id": "V055",
+        "release_time": 2803,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5265,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_56": {
+        "vehicle_id": "V056",
+        "release_time": 2927,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5076,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_57": {
+        "vehicle_id": "V057",
+        "release_time": 3150,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5086,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_58": {
+        "vehicle_id": "V058",
+        "release_time": 3257,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5087,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_59": {
+        "vehicle_id": "V059",
+        "release_time": 3258,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5088,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_60": {
+        "vehicle_id": "V060",
+        "release_time": 3432,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5089,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_61": {
+        "vehicle_id": "V061",
+        "release_time": 3456,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5090,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_62": {
+        "vehicle_id": "V062",
+        "release_time": 3483,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5106,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_63": {
+        "vehicle_id": "V063",
+        "release_time": 3527,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5107,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_64": {
+        "vehicle_id": "V064",
+        "release_time": 3582,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5108,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_65": {
+        "vehicle_id": "V065",
+        "release_time": 3593,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5118,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_66": {
+        "vehicle_id": "V066",
+        "release_time": 3598,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5119,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_67": {
+        "vehicle_id": "V067",
+        "release_time": 3611,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5120,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_68": {
+        "vehicle_id": "V068",
+        "release_time": 3657,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5121,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_69": {
+        "vehicle_id": "V069",
+        "release_time": 3733,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5122,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_70": {
+        "vehicle_id": "V070",
+        "release_time": 3752,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5123,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_71": {
+        "vehicle_id": "V071",
+        "release_time": 3811,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5124,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_72": {
+        "vehicle_id": "V072",
+        "release_time": 3814,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5146,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_73": {
+        "vehicle_id": "V073",
+        "release_time": 3923,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5147,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_74": {
+        "vehicle_id": "V074",
+        "release_time": 3946,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5148,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_75": {
+        "vehicle_id": "V075",
+        "release_time": 4010,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5266,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_76": {
+        "vehicle_id": "V076",
+        "release_time": 4012,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5287,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_77": {
+        "vehicle_id": "V077",
+        "release_time": 4040,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5286,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_78": {
+        "vehicle_id": "V078",
+        "release_time": 4119,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5289,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_79": {
+        "vehicle_id": "V079",
+        "release_time": 4304,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5291,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_80": {
+        "vehicle_id": "V080",
+        "release_time": 4315,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5292,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_81": {
+        "vehicle_id": "V081",
+        "release_time": 4333,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5294,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_82": {
+        "vehicle_id": "V082",
+        "release_time": 4339,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5288,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_83": {
+        "vehicle_id": "V083",
+        "release_time": 4371,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5312,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_84": {
+        "vehicle_id": "V084",
+        "release_time": 4374,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5313,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_85": {
+        "vehicle_id": "V085",
+        "release_time": 4386,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5314,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_86": {
+        "vehicle_id": "V086",
+        "release_time": 4422,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5331,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_87": {
+        "vehicle_id": "V087",
+        "release_time": 4506,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5330,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_88": {
+        "vehicle_id": "V088",
+        "release_time": 4552,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5328,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_89": {
+        "vehicle_id": "V089",
+        "release_time": 4554,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5344,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_90": {
+        "vehicle_id": "V090",
+        "release_time": 4557,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5343,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_91": {
+        "vehicle_id": "V091",
+        "release_time": 4741,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5329,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_92": {
+        "vehicle_id": "V092",
+        "release_time": 4803,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5348,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_93": {
+        "vehicle_id": "V093",
+        "release_time": 4808,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5293,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_94": {
+        "vehicle_id": "V094",
+        "release_time": 4889,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5349,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_95": {
+        "vehicle_id": "V095",
+        "release_time": 5038,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5358,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_96": {
+        "vehicle_id": "V096",
+        "release_time": 5155,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5359,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_97": {
+        "vehicle_id": "V097",
+        "release_time": 5168,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5360,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_98": {
+        "vehicle_id": "V098",
+        "release_time": 5310,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4954,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_99": {
+        "vehicle_id": "V099",
+        "release_time": 5313,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4958,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_100": {
+        "vehicle_id": "V100",
+        "release_time": 5514,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4962,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_101": {
+        "vehicle_id": "V101",
+        "release_time": 5573,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4966,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_102": {
+        "vehicle_id": "V102",
+        "release_time": 5574,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4982,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_103": {
+        "vehicle_id": "V103",
+        "release_time": 5635,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4983,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_104": {
+        "vehicle_id": "V104",
+        "release_time": 5820,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4984,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_105": {
+        "vehicle_id": "V105",
+        "release_time": 5881,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5160,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_106": {
+        "vehicle_id": "V106",
+        "release_time": 5925,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5164,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_107": {
+        "vehicle_id": "V107",
+        "release_time": 5930,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5171,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_108": {
+        "vehicle_id": "V108",
+        "release_time": 5947,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5172,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_109": {
+        "vehicle_id": "V109",
+        "release_time": 5977,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5173,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_110": {
+        "vehicle_id": "V110",
+        "release_time": 6065,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5174,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_111": {
+        "vehicle_id": "V111",
+        "release_time": 6126,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5196,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_112": {
+        "vehicle_id": "V112",
+        "release_time": 6201,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5195,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_113": {
+        "vehicle_id": "V113",
+        "release_time": 6216,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5194,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_114": {
+        "vehicle_id": "V114",
+        "release_time": 6224,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5193,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_115": {
+        "vehicle_id": "V115",
+        "release_time": 6227,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4994,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_116": {
+        "vehicle_id": "V116",
+        "release_time": 6252,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4998,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_117": {
+        "vehicle_id": "V117",
+        "release_time": 6304,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5002,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_118": {
+        "vehicle_id": "V118",
+        "release_time": 6482,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5003,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_119": {
+        "vehicle_id": "V119",
+        "release_time": 6543,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5004,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_120": {
+        "vehicle_id": "V120",
+        "release_time": 6572,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5005,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_121": {
+        "vehicle_id": "V121",
+        "release_time": 6873,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5018,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_122": {
+        "vehicle_id": "V122",
+        "release_time": 6912,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5225,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_123": {
+        "vehicle_id": "V123",
+        "release_time": 6916,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5226,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_124": {
+        "vehicle_id": "V124",
+        "release_time": 6924,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5227,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_125": {
+        "vehicle_id": "V125",
+        "release_time": 7019,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5228,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_126": {
+        "vehicle_id": "V126",
+        "release_time": 7123,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5229,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_127": {
+        "vehicle_id": "V127",
+        "release_time": 7359,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5019,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_128": {
+        "vehicle_id": "V128",
+        "release_time": 7428,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5020,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_129": {
+        "vehicle_id": "V129",
+        "release_time": 7433,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5022,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_130": {
+        "vehicle_id": "V130",
+        "release_time": 7517,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5026,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_131": {
+        "vehicle_id": "V131",
+        "release_time": 7527,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5038,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_132": {
+        "vehicle_id": "V132",
+        "release_time": 7573,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5230,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_133": {
+        "vehicle_id": "V133",
+        "release_time": 7668,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5242,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_134": {
+        "vehicle_id": "V134",
+        "release_time": 7962,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5251,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_135": {
+        "vehicle_id": "V135",
+        "release_time": 8005,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5252,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_136": {
+        "vehicle_id": "V136",
+        "release_time": 8085,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5253,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_137": {
+        "vehicle_id": "V137",
+        "release_time": 8179,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5039,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_138": {
+        "vehicle_id": "V138",
+        "release_time": 8201,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5046,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_139": {
+        "vehicle_id": "V139",
+        "release_time": 8279,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5047,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_140": {
+        "vehicle_id": "V140",
+        "release_time": 8317,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5048,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_141": {
+        "vehicle_id": "V141",
+        "release_time": 8317,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5058,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_142": {
+        "vehicle_id": "V142",
+        "release_time": 8348,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5059,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_143": {
+        "vehicle_id": "V143",
+        "release_time": 8669,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5254,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_144": {
+        "vehicle_id": "V144",
+        "release_time": 8689,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5250,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_145": {
+        "vehicle_id": "V145",
+        "release_time": 8727,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5255,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_146": {
+        "vehicle_id": "V146",
+        "release_time": 8751,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5261,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_147": {
+        "vehicle_id": "V147",
+        "release_time": 8785,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5262,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_148": {
+        "vehicle_id": "V148",
+        "release_time": 8797,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5263,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_149": {
+        "vehicle_id": "V149",
+        "release_time": 8830,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5060,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_150": {
+        "vehicle_id": "V150",
+        "release_time": 8837,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5062,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_151": {
+        "vehicle_id": "V151",
+        "release_time": 8928,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5264,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_152": {
+        "vehicle_id": "V152",
+        "release_time": 8935,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5265,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_153": {
+        "vehicle_id": "V153",
+        "release_time": 9044,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5076,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_154": {
+        "vehicle_id": "V154",
+        "release_time": 9064,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5086,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_155": {
+        "vehicle_id": "V155",
+        "release_time": 9125,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5087,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_156": {
+        "vehicle_id": "V156",
+        "release_time": 9195,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5088,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_157": {
+        "vehicle_id": "V157",
+        "release_time": 9197,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5089,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_158": {
+        "vehicle_id": "V158",
+        "release_time": 9292,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5090,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_159": {
+        "vehicle_id": "V159",
+        "release_time": 9295,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5106,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_160": {
+        "vehicle_id": "V160",
+        "release_time": 9459,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5107,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_161": {
+        "vehicle_id": "V161",
+        "release_time": 9560,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5108,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_162": {
+        "vehicle_id": "V162",
+        "release_time": 9577,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5118,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_163": {
+        "vehicle_id": "V163",
+        "release_time": 9654,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5119,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_164": {
+        "vehicle_id": "V164",
+        "release_time": 9674,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5120,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_165": {
+        "vehicle_id": "V165",
+        "release_time": 9763,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5121,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_166": {
+        "vehicle_id": "V166",
+        "release_time": 9771,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5122,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_167": {
+        "vehicle_id": "V167",
+        "release_time": 9813,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5123,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_168": {
+        "vehicle_id": "V168",
+        "release_time": 9863,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5124,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_169": {
+        "vehicle_id": "V169",
+        "release_time": 9891,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5146,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_170": {
+        "vehicle_id": "V170",
+        "release_time": 9977,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5147,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_171": {
+        "vehicle_id": "V171",
+        "release_time": 9980,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5148,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_172": {
+        "vehicle_id": "V172",
+        "release_time": 10133,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5266,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_173": {
+        "vehicle_id": "V173",
+        "release_time": 10244,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5287,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_174": {
+        "vehicle_id": "V174",
+        "release_time": 10280,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5286,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_175": {
+        "vehicle_id": "V175",
+        "release_time": 10299,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5289,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_176": {
+        "vehicle_id": "V176",
+        "release_time": 10403,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5291,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_177": {
+        "vehicle_id": "V177",
+        "release_time": 10415,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5292,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_178": {
+        "vehicle_id": "V178",
+        "release_time": 10468,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5294,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_179": {
+        "vehicle_id": "V179",
+        "release_time": 10476,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5288,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_180": {
+        "vehicle_id": "V180",
+        "release_time": 10485,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5312,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_181": {
+        "vehicle_id": "V181",
+        "release_time": 10501,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5313,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_182": {
+        "vehicle_id": "V182",
+        "release_time": 10532,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5314,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_183": {
+        "vehicle_id": "V183",
+        "release_time": 10617,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5331,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_184": {
+        "vehicle_id": "V184",
+        "release_time": 10647,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5330,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_185": {
+        "vehicle_id": "V185",
+        "release_time": 10738,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5328,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_186": {
+        "vehicle_id": "V186",
+        "release_time": 10809,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5344,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_187": {
+        "vehicle_id": "V187",
+        "release_time": 10834,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5343,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_188": {
+        "vehicle_id": "V188",
+        "release_time": 10980,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5329,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_189": {
+        "vehicle_id": "V189",
+        "release_time": 11087,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5348,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_190": {
+        "vehicle_id": "V190",
+        "release_time": 11145,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5293,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_191": {
+        "vehicle_id": "V191",
+        "release_time": 11149,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5349,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_192": {
+        "vehicle_id": "V192",
+        "release_time": 11169,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5358,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_193": {
+        "vehicle_id": "V193",
+        "release_time": 11199,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5359,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_194": {
+        "vehicle_id": "V194",
+        "release_time": 11216,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5360,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_195": {
+        "vehicle_id": "V195",
+        "release_time": 11274,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4954,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_196": {
+        "vehicle_id": "V196",
+        "release_time": 11438,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4958,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_197": {
+        "vehicle_id": "V197",
+        "release_time": 11490,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4962,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_198": {
+        "vehicle_id": "V198",
+        "release_time": 11498,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4966,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_199": {
+        "vehicle_id": "V199",
+        "release_time": 11543,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4982,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_200": {
+        "vehicle_id": "V200",
+        "release_time": 11731,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4983,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_201": {
+        "vehicle_id": "V201",
+        "release_time": 11762,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4984,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_202": {
+        "vehicle_id": "V202",
+        "release_time": 11791,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5160,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_203": {
+        "vehicle_id": "V203",
+        "release_time": 11808,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5164,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_204": {
+        "vehicle_id": "V204",
+        "release_time": 11830,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5171,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_205": {
+        "vehicle_id": "V205",
+        "release_time": 11946,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5172,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_206": {
+        "vehicle_id": "V206",
+        "release_time": 11955,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5173,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_207": {
+        "vehicle_id": "V207",
+        "release_time": 11991,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5174,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_208": {
+        "vehicle_id": "V208",
+        "release_time": 12066,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5196,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_209": {
+        "vehicle_id": "V209",
+        "release_time": 12135,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5195,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_210": {
+        "vehicle_id": "V210",
+        "release_time": 12149,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5194,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_211": {
+        "vehicle_id": "V211",
+        "release_time": 12205,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5193,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_212": {
+        "vehicle_id": "V212",
+        "release_time": 12239,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4994,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_213": {
+        "vehicle_id": "V213",
+        "release_time": 12302,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            4998,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_214": {
+        "vehicle_id": "V214",
+        "release_time": 12382,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5002,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_215": {
+        "vehicle_id": "V215",
+        "release_time": 12432,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5003,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_216": {
+        "vehicle_id": "V216",
+        "release_time": 12461,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5004,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_217": {
+        "vehicle_id": "V217",
+        "release_time": 12483,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5005,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_218": {
+        "vehicle_id": "V218",
+        "release_time": 12492,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5018,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_219": {
+        "vehicle_id": "V219",
+        "release_time": 12509,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5225,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_220": {
+        "vehicle_id": "V220",
+        "release_time": 12547,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5226,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_221": {
+        "vehicle_id": "V221",
+        "release_time": 12588,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5227,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_222": {
+        "vehicle_id": "V222",
+        "release_time": 12592,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5228,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_223": {
+        "vehicle_id": "V223",
+        "release_time": 12665,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5229,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_224": {
+        "vehicle_id": "V224",
+        "release_time": 12713,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5019,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_225": {
+        "vehicle_id": "V225",
+        "release_time": 12757,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5020,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_226": {
+        "vehicle_id": "V226",
+        "release_time": 12977,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5022,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_227": {
+        "vehicle_id": "V227",
+        "release_time": 13189,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5026,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_228": {
+        "vehicle_id": "V228",
+        "release_time": 13202,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5038,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_229": {
+        "vehicle_id": "V229",
+        "release_time": 13218,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5230,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_230": {
+        "vehicle_id": "V230",
+        "release_time": 13223,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5242,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_231": {
+        "vehicle_id": "V231",
+        "release_time": 13261,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5251,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_232": {
+        "vehicle_id": "V232",
+        "release_time": 13369,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5252,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_233": {
+        "vehicle_id": "V233",
+        "release_time": 13464,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5253,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_234": {
+        "vehicle_id": "V234",
+        "release_time": 13588,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5039,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_235": {
+        "vehicle_id": "V235",
+        "release_time": 13626,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5046,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_236": {
+        "vehicle_id": "V236",
+        "release_time": 13666,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5047,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_237": {
+        "vehicle_id": "V237",
+        "release_time": 13789,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5048,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_238": {
+        "vehicle_id": "V238",
+        "release_time": 13809,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5058,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_239": {
+        "vehicle_id": "V239",
+        "release_time": 13885,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5059,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_240": {
+        "vehicle_id": "V240",
+        "release_time": 14013,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5254,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_241": {
+        "vehicle_id": "V241",
+        "release_time": 14103,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5250,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_242": {
+        "vehicle_id": "V242",
+        "release_time": 14108,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5255,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_243": {
+        "vehicle_id": "V243",
+        "release_time": 14118,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5261,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_244": {
+        "vehicle_id": "V244",
+        "release_time": 14196,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5262,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_245": {
+        "vehicle_id": "V245",
+        "release_time": 14242,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5263,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_246": {
+        "vehicle_id": "V246",
+        "release_time": 14262,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5060,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_247": {
+        "vehicle_id": "V247",
+        "release_time": 14349,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5062,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_248": {
+        "vehicle_id": "V248",
+        "release_time": 14358,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5264,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_249": {
+        "vehicle_id": "V249",
+        "release_time": 14385,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5265,
+            4
+        ],
+        "tag": 0
+    },
+    "vehicle_250": {
+        "vehicle_id": "V250",
+        "release_time": 14396,
+        "gate_node": [
+            5372,
+            1
+        ],
+        "unload_node": [
+            5076,
+            4
+        ],
+        "tag": 0
+    }
+}
